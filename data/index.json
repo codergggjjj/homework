@@ -1,0 +1,50 @@
+{
+  "app": "政协委员通",
+  "version": "1.0",
+  "district": "杭州市上城区",
+  "generated": "2026-04-23",
+  "modules": [
+    {
+      "id": "jiebie",
+      "name": "界别基本情况",
+      "description": "16个界别的基本情况介绍及活动照片",
+      "dataFile": "data/jiebie.json",
+      "icon": "group",
+      "stats": { "total": 16 }
+    },
+    {
+      "id": "platform",
+      "name": "委员履职平台",
+      "description": "50个委员工作室信息、星级评定及活动展示",
+      "dataFile": "data/zhiyue_platform.json",
+      "icon": "building",
+      "stats": { "total_studios": 50, "five_star": 25, "four_star": 17, "three_star": 4 }
+    },
+    {
+      "id": "fenzongxin",
+      "name": "协商民主实践分中心",
+      "description": "彭埠、紫阳两个分中心活动情况",
+      "dataFile": "data/fenzongxin.json",
+      "icon": "office",
+      "stats": { "total_centers": 2, "total_activities": 15 }
+    },
+    {
+      "id": "plan2026",
+      "name": "2026年履职计划",
+      "description": "16个界别和14个街道的2026年履职计划",
+      "dataFile": "data/zhiyu_plan_2026.json",
+      "icon": "calendar",
+      "stats": { "jiebie_count": 16, "street_count": 14 }
+    }
+  ],
+  "streets": [
+    "湖滨街道", "清波街道", "小营街道", "望江街道",
+    "南星街道", "紫阳街道", "闸弄口街道", "凯旋街道",
+    "采荷街道", "四季青街道", "笕桥街道", "彭埠街道",
+    "九堡街道", "丁兰街道"
+  ],
+  "contacts": {
+    "organization": "中国人民政治协商会议杭州市上城区委员会",
+    "district": "杭州市上城区"
+  }
+}

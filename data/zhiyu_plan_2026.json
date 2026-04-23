@@ -1,0 +1,246 @@
+{
+  "title": "2026年上城区政协履职计划",
+  "year": 2026,
+  "district": "杭州市上城区",
+  "note": "本文件数据框架基于原始 Excel 文件名及历史活动推断构建，详细内容待从原始 Excel 文件（2026年各界别履职计划.xlsx / 2026年各街道\"民生议事堂\"议事计划.xls）提取后补全。",
+  "jiebie_plans": [
+    {
+      "jiebie_id": 1,
+      "jiebie": "中共",
+      "responsible_person": "",
+      "annual_goal": "深入开展界别委员交流，积极参与党建引领基层治理协商",
+      "plans": []
+    },
+    {
+      "jiebie_id": 2,
+      "jiebie": "无党派",
+      "responsible_person": "",
+      "annual_goal": "围绕营商环境、法律服务等领域开展专题调研，继续发展老字号工作室品牌",
+      "plans": []
+    },
+    {
+      "jiebie_id": 3,
+      "jiebie": "共青团、青联",
+      "responsible_person": "",
+      "annual_goal": "聚焦青年发展、创新创业，开展青年议政和公益服务活动",
+      "plans": []
+    },
+    {
+      "jiebie_id": 4,
+      "jiebie": "工会",
+      "responsible_person": "",
+      "annual_goal": "围绕职工权益保障、劳动关系和谐开展调研协商，组织职工文化活动",
+      "plans": []
+    },
+    {
+      "jiebie_id": 5,
+      "jiebie": "妇联",
+      "responsible_person": "",
+      "annual_goal": "深化巾帼共富工坊调研成果，关注妇女儿童权益，开展家庭文化建设活动",
+      "plans": []
+    },
+    {
+      "jiebie_id": 6,
+      "jiebie": "工商联",
+      "responsible_person": "",
+      "annual_goal": "围绕营商环境优化、民营经济高质量发展开展调研建言，加强商会联络",
+      "plans": []
+    },
+    {
+      "jiebie_id": 7,
+      "jiebie": "科技、科协",
+      "responsible_person": "",
+      "annual_goal": "聚焦新质生产力发展、科技创新成果转化开展专题调研和协商活动",
+      "plans": []
+    },
+    {
+      "jiebie_id": 8,
+      "jiebie": "侨、台",
+      "responsible_person": "",
+      "annual_goal": "推动侨台界别交流融合，关注涉侨涉台民生议题，推进两岸一家亲工作室建设",
+      "plans": []
+    },
+    {
+      "jiebie_id": 9,
+      "jiebie": "新闻文体",
+      "responsible_person": "",
+      "annual_goal": "围绕文化建设、体育惠民开展调研，助力上城区文旅产业发展",
+      "plans": []
+    },
+    {
+      "jiebie_id": 10,
+      "jiebie": "经济",
+      "responsible_person": "",
+      "annual_goal": "聚焦上城区经济高质量发展，围绕金融服务实体经济、数字经济等议题开展调研",
+      "plans": []
+    },
+    {
+      "jiebie_id": 11,
+      "jiebie": "环境资源和农业",
+      "responsible_person": "熊义勤、骆鉴湖",
+      "annual_goal": "关注生态环境保护和绿色发展，持续推进环境资源和农业界别委员工作室建设",
+      "plans": []
+    },
+    {
+      "jiebie_id": 12,
+      "jiebie": "教育",
+      "responsible_person": "",
+      "annual_goal": "聚焦教育公平、教育质量提升、家校共育，开展教育领域调研和协商",
+      "plans": []
+    },
+    {
+      "jiebie_id": 13,
+      "jiebie": "医卫",
+      "responsible_person": "",
+      "annual_goal": "围绕健康上城建设、公共卫生体系完善开展调研，组织公益义诊和健康科普",
+      "plans": []
+    },
+    {
+      "jiebie_id": 14,
+      "jiebie": "社会福利和保障",
+      "responsible_person": "吴国庆",
+      "annual_goal": "深化\"特有爱\"公益慈善品牌建设，关注残疾人事业、养老服务等民生议题",
+      "plans": []
+    },
+    {
+      "jiebie_id": 15,
+      "jiebie": "民宗",
+      "responsible_person": "",
+      "annual_goal": "围绕民族团结、宗教和谐开展调研，促进民族宗教领域交流活动",
+      "plans": []
+    },
+    {
+      "jiebie_id": 16,
+      "jiebie": "特邀",
+      "responsible_person": "",
+      "annual_goal": "围绕营商环境、历史文化保护、基层治理等议题开展调研考察和协商活动",
+      "plans": []
+    }
+  ],
+  "street_plans": [
+    {
+      "street_id": 1,
+      "street": "湖滨街道",
+      "committee_group": "政协湖滨小组",
+      "leader": "查靖",
+      "annual_theme": "助推商圈社区建设，优化营商环境",
+      "activities": []
+    },
+    {
+      "street_id": 2,
+      "street": "清波街道",
+      "committee_group": "政协清波小组",
+      "leader": "徐洁",
+      "annual_theme": "老旧小区物业服务提质，文化传承",
+      "activities": []
+    },
+    {
+      "street_id": 3,
+      "street": "小营街道",
+      "committee_group": "政协小营小组",
+      "leader": "冷晓辉",
+      "annual_theme": "历史文化保护，社区治理提升",
+      "activities": []
+    },
+    {
+      "street_id": 4,
+      "street": "望江街道",
+      "committee_group": "政协望江小组",
+      "leader": "毛静波",
+      "annual_theme": "金融知识普及，防范金融风险",
+      "activities": []
+    },
+    {
+      "street_id": 5,
+      "street": "南星街道",
+      "committee_group": "政协南星小组",
+      "leader": "游广敏",
+      "annual_theme": "文脉传承，服务民生",
+      "activities": []
+    },
+    {
+      "street_id": 6,
+      "street": "紫阳街道",
+      "committee_group": "政协紫阳小组",
+      "leader": "王盈",
+      "annual_theme": "基层治理创新，委员说委员做",
+      "activities": []
+    },
+    {
+      "street_id": 7,
+      "street": "闸弄口街道",
+      "committee_group": "政协闸弄口小组",
+      "leader": "祝文雅",
+      "annual_theme": "基层治理，幸福邻里建设",
+      "activities": []
+    },
+    {
+      "street_id": 8,
+      "street": "凯旋街道",
+      "committee_group": "政协凯旋小组",
+      "leader": "金志伟",
+      "annual_theme": "大健康服务，社区治理提升",
+      "activities": []
+    },
+    {
+      "street_id": 9,
+      "street": "采荷街道",
+      "committee_group": "政协采荷小组",
+      "leader": "赵丹晨",
+      "annual_theme": "家庭教育，社区文化建设",
+      "activities": []
+    },
+    {
+      "street_id": 10,
+      "street": "四季青街道",
+      "committee_group": "政协四季青小组",
+      "leader": "李岗",
+      "annual_theme": "科技创新，投早投小投科技",
+      "activities": []
+    },
+    {
+      "street_id": 11,
+      "street": "笕桥街道",
+      "committee_group": "政协笕桥小组",
+      "leader": "阮骏",
+      "annual_theme": "社区治理，民生服务提升",
+      "activities": []
+    },
+    {
+      "street_id": 12,
+      "street": "彭埠街道",
+      "committee_group": "政协彭埠小组",
+      "leader": "任渊",
+      "annual_theme": "回迁安置，非遗传承，协商为民",
+      "activities": []
+    },
+    {
+      "street_id": 13,
+      "street": "九堡街道",
+      "committee_group": "政协九堡小组",
+      "leader": "胡建清",
+      "annual_theme": "健康九久，社区振兴",
+      "activities": []
+    },
+    {
+      "street_id": 14,
+      "street": "丁兰街道",
+      "committee_group": "政协丁兰小组",
+      "leader": "倪勇卿",
+      "annual_theme": "乡村振兴，共同富裕",
+      "activities": []
+    }
+  ],
+  "source_files": [
+    {
+      "filename": "2026年各界别履职计划.xlsx",
+      "path": "data/7. 2026年履职计划/2026年各界别履职计划.xlsx",
+      "status": "待解析"
+    },
+    {
+      "filename": "2026年各街道\"民生议事堂\"议事计划.xls",
+      "path": "data/7. 2026年履职计划/2026年各街道\"民生议事堂\"议事计划.xls",
+      "status": "待解析"
+    }
+  ]
+}
